@@ -109,7 +109,7 @@ nnoremap <leader>c :nohl<CR>
 nnoremap <leader>pa :set nopaste!<CR>
 nnoremap <leader>rc :so $MYVIMRC<CR>
 nnoremap <leader>b :BlogSave publish<CR>
-"nnoremap <leader>r :! /Users/daniel/Documents/whup.sh<CR><CR>
+"nnoremap <leader>r :! /Users/$HOME/Documents/whup.sh<CR><CR>
 nnoremap <leader>h :set ft=HTML<CR><CR>
 
 " Control shortcuts
