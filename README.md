@@ -1,5 +1,5 @@
 # vim
-My Vim configuration.
+My Vim configuration. Companion [article](https://danielmiessler.com/study/vim/)
 
 ## Steps to install
 1. Clone this repo
